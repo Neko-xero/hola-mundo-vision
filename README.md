@@ -1,2 +1,2 @@
 # hola-mundo-vision
-Esto es una prueba, ok
+Esto es una prueba
